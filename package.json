@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethereum-keystore": "^0.0.3"
+  }
+}
